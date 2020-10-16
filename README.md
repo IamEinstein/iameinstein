@@ -11,6 +11,9 @@ Here are some ideas to get you started:-->
 
 - 💬 Ask me about Django
 - 📫 How to reach me: Github  
-- 😄 Pronouns: Coder
-- ⚡ Fun fact: I am a Human 😂
+My works -
+- [Election App](https://bit.ly/33FCdO2)
+
+
+
 
