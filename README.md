@@ -6,8 +6,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Python and JS
-- 💬 Ask me about Django
+- 🌱 I’m currently learning Python and Javascript
+- 💬 Ask me about Django, Python and HTML
 - 📫 How to reach me: Github  
 - My works:
   - [Election App](https://bit.ly/33FCdO2)
