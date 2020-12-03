@@ -12,7 +12,7 @@
   - [Mail Verify](https://bit.ly/321I9zx)
 
 
-
+![Card](https://github-readme-stats.vercel.app/api?username=IamEinstein1&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
 
 <hr>
 
