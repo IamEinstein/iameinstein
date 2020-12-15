@@ -12,9 +12,9 @@
   - [Mail Verify](https://bit.ly/321I9zx)
 
 
-![Card](https://github-readme-stats.vercel.app/api?username=IamEinstein1&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
+![Card](https://github-readme-stats.vercel.app/api?username=IamEinstein&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
 
 <hr>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IamEinstein1&count_private=true&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamEinstein1&layout=compact&card_width=250&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IamEinstein&count_private=true&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamEinstein&layout=compact&card_width=250&hide_border=true"/>
