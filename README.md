@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Welcome to my profile
 
--  I am just 14
+-  I am 14
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Python and Javascript
 - I know C++(moderate), Python(max), HTML(max), CSS(moderate) and JS(moderate)
