@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### Welcome to my profile
 
--  I am 15
+
 - 🔭 I’m working on Web Development 
-- 🌱 I’m learning Python and Javascript
+- 🌱 I’m a Python and Javascript developer
 - 💬 Ask me about Django, General Python and JS
 - 📫 How to reach me: Github, Discord (Оliver#7860)
 - 
